@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Genius](https://github.com/xSerafim/genius)
 
-- 🌱 I’m currently learning **MySql, NodeJs**
+- 🌱 I’m currently learning **MySql, NodeJs**, **Sequelize**, **Express**
 
 - 📫 How to reach me **guilhermeserafimbonfim@hotmail.com**
 
