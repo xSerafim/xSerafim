@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Serafim</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
-- 🔭 I’m currently working on [Genius](https://github.com/xSerafim/genius)
+- 🔭 I’m currently working on [E-Commerce](https://github.com/xSerafim/E-Commerce)
 
 - 🌱 I’m currently learning **MySql, NodeJs**, **Sequelize**, **Express**
 
